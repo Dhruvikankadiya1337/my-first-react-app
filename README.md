@@ -27,22 +27,6 @@ Ideal for beginners learning React components and layout. 🌱
 | React DOM 18 | Rendering via `createRoot()` |
 
 ---
-## 🗂️ Folder Structure
-
-```
-my-plants-app/
-├── public/
-│   └── pic3.jpg
-├── src/
-│   ├── App.js
-│   ├── Navbar.js
-│   ├── Footer.js
-│   └── index.js
-├── package.json
-└── README.md
-```
-
----
 ## 🔍 Code Highlights
 
 ### `App.js`
