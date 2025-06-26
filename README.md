@@ -1,4 +1,4 @@
-# 🌿 React Plant Product Page
+# 🌿  Plant Product Page
 
 A clean and modern product detail page built using **React JS**.  
 Displays plant information with beautiful styling, navigation, and footer.  
