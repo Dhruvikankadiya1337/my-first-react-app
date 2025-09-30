@@ -1,0 +1,184 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Laptop",
+      "category": "Electronics",
+      "price": 50000
+    },
+    {
+      "id": 2,
+      "title": "Smartphone",
+      "category": "Electronics",
+      "price": 30000
+    },
+    {
+      "id": 3,
+      "title": "Headphones",
+      "category": "Accessories",
+      "price": 2000
+    },
+    {
+      "id": 4,
+      "title": "Smartwatch",
+      "category": "Electronics",
+      "price": 8000
+    },
+    {
+      "id": 5,
+      "title": "Wireless Mouse",
+      "category": "Accessories",
+      "price": 700
+    },
+    {
+      "id": 6,
+      "title": "Keyboard",
+      "category": "Accessories",
+      "price": 1200
+    },
+    {
+      "id": 7,
+      "title": "Tablet",
+      "category": "Electronics",
+      "price": 25000
+    },
+    {
+      "id": 8,
+      "title": "External Hard Drive",
+      "category": "Storage",
+      "price": 5000
+    },
+    {
+      "id": 9,
+      "title": "Bluetooth Speaker",
+      "category": "Electronics",
+      "price": 3500
+    },
+    {
+      "id": 10,
+      "title": "Gaming Console",
+      "category": "Electronics",
+      "price": 40000
+    },
+    {
+      "id": 11,
+      "title": "Monitor",
+      "category": "Electronics",
+      "price": 15000
+    },
+    {
+      "id": 12,
+      "title": "Printer",
+      "category": "Electronics",
+      "price": 12000
+    },
+    {
+      "id": 13,
+      "title": "Camera",
+      "category": "Electronics",
+      "price": 30000
+    },
+    {
+      "id": 14,
+      "title": "Power Bank",
+      "category": "Accessories",
+      "price": 1500
+    },
+    {
+      "id": 15,
+      "title": "Microphone",
+      "category": "Accessories",
+      "price": 4000
+    },
+    {
+      "id": 16,
+      "title": "Projector",
+      "category": "Electronics",
+      "price": 22000
+    },
+    {
+      "id": 17,
+      "title": "Router",
+      "category": "Electronics",
+      "price": 3000
+    },
+    {
+      "id": 18,
+      "title": "SSD 1TB",
+      "category": "Storage",
+      "price": 9000
+    },
+    {
+      "id": 19,
+      "title": "USB Flash Drive",
+      "category": "Storage",
+      "price": 600
+    },
+    {
+      "id": 20,
+      "title": "Gaming Chair",
+      "category": "Furniture",
+      "price": 15000
+    },
+    {
+      "id": 21,
+      "title": "TV",
+      "category": "Electronics",
+      "price": 45000
+    },
+    {
+      "id": 22,
+      "title": "Air Conditioner",
+      "category": "Home Appliances",
+      "price": 38000
+    },
+    {
+      "id": 23,
+      "title": "Washing Machine",
+      "category": "Home Appliances",
+      "price": 28000
+    },
+    {
+      "id": 24,
+      "title": "Refrigerator",
+      "category": "Home Appliances",
+      "price": 32000
+    },
+    {
+      "id": 25,
+      "title": "Ceiling Fan",
+      "category": "Home Appliances",
+      "price": 2500
+    },
+    {
+      "id": 26,
+      "title": "Mixer Grinder",
+      "category": "Home Appliances",
+      "price": 4500
+    },
+    {
+      "id": 27,
+      "title": "Electric Kettle",
+      "category": "Home Appliances",
+      "price": 1800
+    },
+    {
+      "id": 28,
+      "title": "Induction Cooktop",
+      "category": "Home Appliances",
+      "price": 5000
+    },
+    {
+      "id": 29,
+      "title": "Vacuum Cleaner",
+      "category": "Home Appliances",
+      "price": 7500
+    },
+    {
+      "id": 30,
+      "title": "Microwave Oven",
+      "category": "Home Appliances",
+      "price": 10000
+    }
+  ]
+}
