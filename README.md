@@ -1,15 +1,41 @@
-# React + Vite
+# 🌿  Plant Product Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and modern product detail page built using **React JS**.  
+Displays plant information with beautiful styling, navigation, and footer.  
+Ideal for beginners learning React components and layout. 🌱
 
-Currently, two official plugins are available:
+---
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ✅ Clean, centered plant product layout
+- 🖼️ Image, title, category, price & description
+- 🛒 "Add to Cart" and "Wishlist" buttons
+- 🔝 Reusable `Navbar` component
+- 🔚 Reusable `Footer` with contact and social links
+- 🎨 Beautiful inline CSS design
+- 💻 Simple and beginner-friendly code
 
-## Expanding the ESLint configuration
+---
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+| Tool | Purpose |
+|------|---------|
+| ⚛️ React JS | Component-based architecture |
+| 💅 Inline CSS | Quick and scoped styling |
+| JSX | UI Structure in JavaScript |
+| npm | Dependency management |
+| React DOM 18 | Rendering via `createRoot()` |
+
+---
+## 🔍 Code Highlights
+
+### `App.js`
+
+Displays plant image, info, price, and includes:
+
+- `<Navbar />` at the top
+- `<Footer />` at the bottom
 
 
-# my first github project
+video-Link : https://drive.google.com/file/d/1J6XMbg_wodP6m7YeWVlCfDnXcxwnwd8o/view?usp=sharing
+
