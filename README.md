@@ -1,41 +1,58 @@
-# 🌿  Plant Product Page
+Got it 👍 Here’s a **clean, emoji-styled README** for your **Product Management Application**:
+---
 
-A clean and modern product detail page built using **React JS**.  
-Displays plant information with beautiful styling, navigation, and footer.  
-Ideal for beginners learning React components and layout. 🌱
+# 📘 Product Management Application
+
+A **React JS** application for managing products with **Redux Toolkit** and **JSON Server** 🚀.
 
 ---
-## ✨ Features
 
-- ✅ Clean, centered plant product layout
-- 🖼️ Image, title, category, price & description
-- 🛒 "Add to Cart" and "Wishlist" buttons
-- 🔝 Reusable `Navbar` component
-- 🔚 Reusable `Footer` with contact and social links
-- 🎨 Beautiful inline CSS design
-- 💻 Simple and beginner-friendly code
+## ⚙️ 1. Backend Setup (Mock API)
+```json
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Laptop",
+      "category": "Electronics",
+      "price": 50000
+    }
+  ]
+}
+```
+
+▶️ Start server:
+
+```bash
+npx json-server --watch db.json --port 5000
+```
 
 ---
-## 🛠️ Technologies Used
 
-| Tool | Purpose |
-|------|---------|
-| ⚛️ React JS | Component-based architecture |
-| 💅 Inline CSS | Quick and scoped styling |
-| JSX | UI Structure in JavaScript |
-| npm | Dependency management |
-| React DOM 18 | Rendering via `createRoot()` |
+## 🛠️ 2. Redux Toolkit Setup
+
+1. Configure **Redux Store** 🗂️
+2. Create **`productSlice`** with CRUD operations:
+
+* 📥 **Fetch Products** → (GET `/products`)
+* ➕ **Add Product** → (POST `/products`)
+* ✏️ **Update Product** → (PUT `/products/:id`)
+* ❌ **Delete Product** → (DELETE `/products/:id`)
 
 ---
-## 🔍 Code Highlights
 
-### `App.js`
+## 🔍 3. Search & Filter Features
 
-Displays plant image, info, price, and includes:
+* 🔎 **Search Bar** → Search products by `title`
+* 🏷️ **Category Filter (Dropdown)** → Filter by `category`
+* 🔗 **Combined Filters** → Search + Filter should work **together**
 
-- `<Navbar />` at the top
-- `<Footer />` at the bottom
+---
 
+## ✨ Features Summary
 
-video-Link : https://drive.google.com/file/d/1J6XMbg_wodP6m7YeWVlCfDnXcxwnwd8o/view?usp=sharing
-
+✅ Manage products (CRUD)
+✅ Mock API with JSON Server
+✅ Redux Toolkit for state management
+✅ Search & Filter functionality
+✅ Clean UI with React
