@@ -1,5 +1,3 @@
-Got it 👍 Here’s a **clean, emoji-styled README** for your **Product Management Application**:
----
 
 # 📘 Product Management Application
 
